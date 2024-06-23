@@ -1,2 +1,2 @@
 # swing-helpers
-Java classes to help with swing.
+Java class to help with swing.
